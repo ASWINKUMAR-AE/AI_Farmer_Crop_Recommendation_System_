@@ -1,0 +1,41 @@
+{
+    "dataset_name": "Crop Recommendation Dataset",
+    "source": "Agricultural Research & Precision Agriculture Benchmarks (Atharva Ingle / ICAR)",
+    "total_records": 2200,
+    "features": [
+        "N",
+        "P",
+        "K",
+        "temperature",
+        "humidity",
+        "ph",
+        "rainfall"
+    ],
+    "target": "label",
+    "total_classes": 22,
+    "classes": [
+        "rice",
+        "maize",
+        "chickpea",
+        "kidneybeans",
+        "pigeonpeas",
+        "mothbeans",
+        "mungbean",
+        "blackgram",
+        "lentil",
+        "pomegranate",
+        "banana",
+        "mango",
+        "grapes",
+        "watermelon",
+        "muskmelon",
+        "apple",
+        "orange",
+        "papaya",
+        "coconut",
+        "cotton",
+        "jute",
+        "coffee"
+    ],
+    "description": "Empirical multi-crop environmental and soil dataset for precision crop recommendation using Machine Learning."
+}
